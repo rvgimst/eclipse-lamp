@@ -5,7 +5,7 @@ infill: 15%
 layer thickness: 0.2mm
 All 3 objects incl brim should fit on bed taking 20x24cm. You might need to rotate the model
 ----------------------
-Eclipse-UpperLower (sent 4AUG24)
+Eclipse-UpperLower (sent 4AUG24 and 10JAN25)
 brim: YES
 supports: ON BUILDPLATE ONLY
 infill: 15%
@@ -31,7 +31,7 @@ NO SUPPORTS ON BUILDPLATE, ONLY SUPPORT ENFORCERS
 infill: 25%
 layer thickness: 0.2mm
 ----------------------
-Eclipse-CapSpindle*.stl (send 13AUG24)
+Eclipse-CapSpindle*.stl (send 13AUG24 and 6JAN25)
 [Own design]
 brim: YES
 supports: NO
