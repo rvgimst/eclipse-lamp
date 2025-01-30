@@ -1,11 +1,11 @@
-2x Eclipse-NormalSide3x (sent 7AUG)
+Eclipse-NormalSide3x (sent 7AUG) and Eclipse-2xNormalSide90cm-HiresTubeFunnel (27JAN25)
 brim: YES
 supports: ON BUILDPLATE ONLY
 infill: 15%
-layer thickness: 0.2mm
-All 3 objects incl brim should fit on bed taking 20x24cm. You might need to rotate the model
+layer thickness: 0.2mm or smallest possible
+All objects incl brim should fit on bed taking 20x24cm. You might need to rotate the model
 ----------------------
-Eclipse-UpperLower (sent 4AUG24 and 10JAN25)
+Eclipse-UpperLower (sent 4AUG24 and 10JAN25-90cm)
 brim: YES
 supports: ON BUILDPLATE ONLY
 infill: 15%
@@ -27,6 +27,17 @@ supports: PLEASE USE SUPPORT ENFORCERS for the 3 rectangular holes on the side o
  1 box pos(160, 96, 12) size(25, 25, 20) mm
  1 box pos(125, 125, 12) size(25, 25, 20) mm
  1 box pos(90, 102, 12) size(16, 16, 16) mm
+NO SUPPORTS ON BUILDPLATE, ONLY SUPPORT ENFORCERS
+infill: 25%
+layer thickness: 0.2mm
+----------------------
+Eclipse-PowerBox v2-0 (sent 13JAN25)
+brim: NO (next time: YES!!!!)
+supports: PLEASE USE FOLLOWING SUPPORT ENFORCERS for the 4 holes on the side of the box:
+ 1 box pos(160, 65, 12) size(25, 25, 20) mm
+ 1 box pos(125, 95, 12) size(25, 25, 20) mm
+ 1 box pos(90, 68, 12) size(25, 15, 20) mm
+ 1 box pos(97, 84, 5) size(12, 12, 10) mm
 NO SUPPORTS ON BUILDPLATE, ONLY SUPPORT ENFORCERS
 infill: 25%
 layer thickness: 0.2mm
