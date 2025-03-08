@@ -47,4 +47,11 @@ Eclipse-CapSpindle*.stl (send 13AUG24 and 6JAN25)
 brim: YES
 supports: NO
 infill: 50%
+----------------------
+Eclipse-PowerBox_lid_high 5mm.stl (send 8MAR25)
+brim: YES
+supports: NO
+infill: 25%
+layer thickness: 0.2mm or smallest possible
+----------------------
 
